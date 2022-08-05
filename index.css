@@ -1,0 +1,29 @@
+body{
+    background-color: #085a08;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+#header{
+    color: #f2d91f;
+}
+#message{
+    font-size: 25px;
+    font-weight: bold;
+    color: floralwhite;
+}
+#cards, #sum-cards, #player-info{
+    font-size: 25px;
+    font-weight: bold;
+    color: floralwhite;
+}
+.btn-action{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: #f2d91f;
+    color: #085a08;
+    font-weight: 700;
+}
